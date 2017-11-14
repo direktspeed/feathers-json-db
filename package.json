@@ -1,8 +1,8 @@
 {
-  "name": "feathers-nedb",
-  "description": "Feathers NeDB Service",
+  "name": "feathers-jsondb",
+  "description": "Feathers JsonDB Service",
   "version": "2.7.0",
-  "homepage": "https://github.com/feathersjs/feathers-nedb",
+  "homepage": "https://github.com/feathersjs/feathers-jsondb",
   "repository": {
     "type": "git",
     "url": "https://github.com/feathersjs/feathers-nedb.git"
@@ -74,8 +74,8 @@
     "feathers-socketio": "^2.0.0",
     "istanbul": "^1.1.0-alpha.1",
     "mocha": "^4.0.0",
-    "nedb": "^1.5.1",
-    "rimraf": "^2.5.4",
+    "node-json-db": "^1.5.1",
+    "rimraf": "*",
     "semistandard": "^11.0.0"
   }
 }
