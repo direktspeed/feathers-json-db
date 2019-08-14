@@ -75,7 +75,7 @@
     "istanbul": "^1.1.0-alpha.1",
     "mocha": "^4.0.0",
     "node-json-db": "^1.5.1",
-    "rimraf": "*",
+    "rimraf": ">=2.7.1",
     "semistandard": "^11.0.0"
   }
 }
